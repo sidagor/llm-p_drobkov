@@ -101,7 +101,7 @@ http://localhost:8000/docs
 ### Эндпоинты
 
 ```
-<img width="965" height="489" alt="эндпоинты" src="https://github.com/user-attachments/assets/a3b0dcc8-5b77-4b21-92d7-e7b4b00db36d" />
+![эндпоинты](https://github.com/user-attachments/assets/a3b0dcc8-5b77-4b21-92d7-e7b4b00db36d)
 
 ```
 ---
@@ -109,25 +109,24 @@ http://localhost:8000/docs
 ### Регистрация пользователя
 
 ```
-<img width="939" height="443" alt="регистрация" src="https://github.com/user-attachments/assets/cf7e2ce8-3959-4a0e-837d-071b55ab3e4b" />
+![регистрация](https://github.com/user-attachments/assets/cf7e2ce8-3959-4a0e-837d-071b55ab3e4b)
 ```
 ---
 
 ### Логин и получение JWT
 
 ```
-<img width="942" height="355" alt="Авторизация" src="https://github.com/user-attachments/assets/7a7a0993-8f56-451a-9709-70e435c65716" />
+![Авторизация](https://github.com/user-attachments/assets/7a7a0993-8f56-451a-9709-70e435c65716)
 ```
 ---
 
 ### Авторизация в Swagger
 ```
-<img width="429" height="358" alt="авторизация swagger1" src="https://github.com/user-attachments/assets/77fa4c15-8756-4288-9048-fc45f98a5892" />
+![авторизация swagger1](https://github.com/user-attachments/assets/77fa4c15-8756-4288-9048-fc45f98a5892)
 ```
 
 ```
-<img width="424" height="312" alt="авторизация swagger" src="https://github.com/user-attachments/assets/9210b0bd-d612-40e1-9c7c-21fa9b31c6b7" />
-
+![авторизация swagger](https://github.com/user-attachments/assets/9210b0bd-d612-40e1-9c7c-21fa9b31c6b7)
 ```
 ---
 
@@ -135,7 +134,7 @@ http://localhost:8000/docs
 
 Отправка запроса к LLM:
 ```
-<img width="705" height="409" alt="ответ нейросети" src="https://github.com/user-attachments/assets/1c58a47f-0ce9-42ab-8ce9-09d0f63ef953" />
+![ответ нейросети](https://github.com/user-attachments/assets/1c58a47f-0ce9-42ab-8ce9-09d0f63ef953)
 ```
 ---
 
@@ -143,7 +142,7 @@ http://localhost:8000/docs
 
 Получение истории сообщений:
 ```
-<img width="704" height="403" alt="получение истории чата" src="https://github.com/user-attachments/assets/ba91fcc0-2be1-430c-9d70-558a0585f64e" />
+![получение истории чата](https://github.com/user-attachments/assets/ba91fcc0-2be1-430c-9d70-558a0585f64e)
 ```
 ---
 
@@ -152,7 +151,7 @@ http://localhost:8000/docs
 Очистка истории:
 
 ```
-<img width="707" height="242" alt="очистка истории" src="https://github.com/user-attachments/assets/22e50866-17a8-4d2f-bdbf-1565405de90d" />
+![очистка истории](https://github.com/user-attachments/assets/22e50866-17a8-4d2f-bdbf-1565405de90d)
 
 ```
 ---
@@ -162,8 +161,7 @@ http://localhost:8000/docs
 В проекте использован openrouter/free, который автоматически выбирает самую доступную из бесплатных моделей. В процессе работы над проектом stepfun/step-3.5-flash перестала быть бесплатной, поэтому было решено использовать другие модели.
 
 ```
-<img width="718" height="133" alt="нейросеть" src="https://github.com/user-attachments/assets/41264557-565e-4c5d-a5be-129924855e3f" />
-
+![нейросеть](https://github.com/user-attachments/assets/41264557-565e-4c5d-a5be-129924855e3f)
 ```
 ---
 
