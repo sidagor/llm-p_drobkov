@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# uv 
+uv.lock
+
+# Ruff
+.ruff_cache/
+
+# Project specific
+app.db
+
+# Python version 
+.python-version
